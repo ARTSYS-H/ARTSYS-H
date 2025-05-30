@@ -6,9 +6,9 @@
 
 Hi! I'm Lugh, welcome to my GitHub page. I love open source and am always striving to improve my skills. I am deeply involved in the field of system administration and DevOps, and I have a keen interest in operating systems.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARTSYS-H&layout=compact&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARTSYS-H&layout=compact)
 
-![Lugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARTSYS-H&show_icons=true&bg_color=00000000)
+![Lugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARTSYS-H&show_icons=true)
 
 ![Funny Gopher](./funny_gopher.gif)
 
