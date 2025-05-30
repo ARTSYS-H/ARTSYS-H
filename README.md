@@ -1,4 +1,13 @@
-## Hi there 👋
+## :owl: Lugh
+
+- 🚀 Personal blog - [lucashadey.com](https://lucashadey.com)
+
+### About me
+
+Hi! I'm Lugh, welcome to my GitHub page. I love open source and am always striving to improve my skills. I am deeply involved in the field of system administration and DevOps, and I have a keen interest in operating systems.
+
+![Lugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARTSYS-H&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ARTSYS-H&layout=compact)
 
 <!--
 **ARTSYS-H/ARTSYS-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
