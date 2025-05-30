@@ -1,4 +1,4 @@
-## :owl: Lugh
+## 🐦‍⬛ Lugh
 
 - 🚀 Personal blog - [lucashadey.com](https://lucashadey.com)
 
