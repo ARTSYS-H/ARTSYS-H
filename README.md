@@ -10,6 +10,8 @@ Hi! I'm Lugh, welcome to my GitHub page. I love open source and am always strivi
 
 ![Lugh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ARTSYS-H&show_icons=true&bg_color=00000000)
 
+![Funny Gopher](./funny_gopher.gif)
+
 <!--
 **ARTSYS-H/ARTSYS-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
