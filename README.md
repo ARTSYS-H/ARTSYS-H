@@ -19,6 +19,10 @@ Hi! I'm Lugh, welcome to my GitHub page. I love open source and am always strivi
   <img src="./funny_gopher.gif" alt="Funny Gopher">
 </div>
 
+##### ⚡ Fun fact: 
+
+I use the pseudonym `Lugh` out of affection for Celtic mythology, without comparing myself to a god. The raven 🐦‍⬛, often used as a symbol of Lugh. Lugh is often associated with light, the arts, and multiple skills.
+
 <!--
 **ARTSYS-H/ARTSYS-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,5 +35,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
