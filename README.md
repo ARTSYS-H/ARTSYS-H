@@ -1,6 +1,6 @@
 ## 🐦‍⬛ Lugh
 
-- 🚀 Personal blog - [lucashadey.com](https://lucashadey.com)
+- :newspaper_roll: Personal blog - [lucashadey.com](https://lucashadey.com)
 
 ### About me
 
@@ -9,15 +9,28 @@ Hi! I'm Lugh, welcome to my GitHub page. I love open source and am always strivi
 - 🔭 I’m currently working on [Crow](https://github.com/ARTSYS-H/crow).
 - 🌱 I’m currently learning Go and Linux.
 
+### My Stuff
+
+- :keyboard: keyboards: DuckyOne2 TKL (Cherry MX Black)
+- :computer: Notebooks: TUXEDO Pulse 14 - Gen4 
+
+#### Favorite Tools:
+
+- :scroll: Editor: [Helix](https://helix-editor.com/)
+- :rocket: Terminal: [Alacritty](https://alacritty.org/)
+- :penguin: Linux Environments: [GNOME](https://www.gnome.org/) & [i3](https://i3wm.org/)
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTSYS-H&layout=compact" alt="Top Langs">
 </div>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ARTSYS-H&show_icons=true" alt="Lugh's GitHub stats">
 </div>
+<!-- 
 <div align="left">
   <img src="./funny_gopher.gif" alt="Funny Gopher">
 </div>
+-->
 
 ##### ⚡ Fun fact: 
 
