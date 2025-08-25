@@ -18,13 +18,16 @@ Hi! I'm Lugh, welcome to my GitHub page. I love open source and am always strivi
 
 - :scroll: Editor: [Helix](https://helix-editor.com/)
 - :rocket: Terminal: [Alacritty](https://alacritty.org/)
-- :penguin: Linux Environments: [GNOME](https://www.gnome.org/) & [i3](https://i3wm.org/) & [Sway](https://swaywm.org/)
+- :penguin: Linux Environments: [GNOME](https://www.gnome.org/) & [i3](https://i3wm.org/) / [Sway](https://swaywm.org/)
 
+<!-- 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTSYS-H&layout=compact" alt="Top Langs">
 </div>
-<div align="left">
+-->
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ARTSYS-H&show_icons=true" alt="Lugh's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTSYS-H&layout=compact" alt="Top Langs">
 </div>
 <!-- 
 <div align="left">
