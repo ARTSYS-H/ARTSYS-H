@@ -6,12 +6,12 @@
 
 Hi! I'm Lugh, welcome to my GitHub page. I love open source and am always striving to improve my skills. I am deeply involved in the field of system administration and DevOps, and I have a keen interest in operating systems.
 
-- 🔭 I’m currently working on [Crow](https://github.com/ARTSYS-H/crow).
-- 🌱 I’m currently learning Go and Linux.
+- 🔭 I'm not currently working on anything, for the moment...😉
+- 🌱 I’m currently learning C and Zig.
 
 ### My Stuff
 
-- :keyboard: keyboards: DuckyOne2 TKL (Cherry MX Black)
+- :keyboard: keyboards: Nuphy Air60 V2 - Wisteria Switches
 - :computer: Notebooks: TUXEDO Pulse 14 - Gen4 
 
 #### Favorite Tools:
@@ -19,21 +19,6 @@ Hi! I'm Lugh, welcome to my GitHub page. I love open source and am always strivi
 - :scroll: Editor: [Helix](https://helix-editor.com/)
 - :rocket: Terminal: [Alacritty](https://alacritty.org/)
 - :penguin: Linux Environments: [GNOME](https://www.gnome.org/) & [i3](https://i3wm.org/) / [Sway](https://swaywm.org/)
-
-<!-- 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTSYS-H&layout=compact" alt="Top Langs">
-</div>
--->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARTSYS-H&show_icons=true" alt="Lugh's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTSYS-H&layout=compact" alt="Top Langs">
-</div>
-<!-- 
-<div align="left">
-  <img src="./funny_gopher.gif" alt="Funny Gopher">
-</div>
--->
 
 ##### ⚡ Fun fact: 
 
