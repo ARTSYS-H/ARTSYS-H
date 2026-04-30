@@ -1,6 +1,6 @@
 ## 🐦‍⬛ Lugh
 
-- :newspaper_roll: Personal blog - [lucashadey.com](https://lucashadey.com)
+- :newspaper_roll: Personal blog - [blog.lucashadey.com](https://blog.lucashadey.com)
 
 ### About me
 
